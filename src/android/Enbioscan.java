@@ -1,4 +1,4 @@
-package cordova-plugin-enbioscan;
+package cordova.plugin.enbioscan;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
